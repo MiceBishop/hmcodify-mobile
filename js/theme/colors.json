@@ -1,0 +1,11 @@
+{
+  "PRIMARY": "#f44336",
+  "PRIMARY_DARK": "#ba000d",
+  "PRIMARY_LIGHT": "#ff7961",
+  "SECONDARY": "#4caf50",
+  "SECONDARY_LIGHT": "#80e27e",
+  "SECONDARY_DARK": "#087f23",
+  "WHITE": "white",
+  "BLACK": "black",
+  "TRANSPARENT": "transparent"
+}
